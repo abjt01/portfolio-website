@@ -14,7 +14,7 @@ export default function WorkWithMe() {
         </li>
         <li className="flex items-start gap-2">
           <span className="text-[#6c6499]">★</span>
-          <span>open source contributions — especially within the cncf / lfx ecosystem</span>
+          <span>open source contributions &amp; collaborative builds</span>
         </li>
         <li className="flex items-start gap-2">
           <span className="text-[#6c6499]">★</span>
